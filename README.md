@@ -10,6 +10,8 @@ test real Redis/ZooKeeper behavior.
 
 as of 2026-10-11
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Teams adopt a distributed lock library and discover its edge-case semantics
